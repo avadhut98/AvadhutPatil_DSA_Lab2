@@ -3,6 +3,8 @@ Lab Algorithms assessment 2 of the DSA section of Great Learning Full Scale Deve
 
 **Problem Marks (8)**
 
+ **Solution - src/com/greatlearning/paymoney**
+
 
 PayMoney. processes thousands of transactions daily amounting to crores of Rupees.
 They also have a daily target that they must achieve. Given a list of transactions done by
@@ -45,6 +47,7 @@ Explanation → Since there is only 1 transaction that is of 100 and the target 
 
 **Question Marks (12 )**
 
+ **Solution - src/com/greatlearning/CurrencyDenomination**
 
 You are a traveler and traveling to a country where the currency denominations are
 unknown and as you travel you get to know about the denomination in random order.
